@@ -1,0 +1,18 @@
+.one{
+    color: aquamarine;
+}
+.two{
+    color: aqua;
+}
+.title{
+    background-color: bisque;
+}
+.nagl ~ .dwa{
+    background-color: azure;
+}
+h3{
+    color: darkviolet;
+}
+.dwa{
+    color: blue;
+}
